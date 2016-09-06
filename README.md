@@ -1,2 +1,4 @@
 # franz-plugin-massr
-franz integration for massr
+
+[franz](http://meetfranz.com/) integration for [massr](https://github.com/tdtds/massr).
+

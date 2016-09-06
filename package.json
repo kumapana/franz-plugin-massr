@@ -1,0 +1,23 @@
+{
+  "name": "massr",
+  "version": "1.0.0",
+  "description": "massr",
+  "main": "index.js",
+  "author": "Kan Fushihara <kan.fushihara@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://wasamas.herokuapp.com/",
+    "serviceName": "Massr",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": true
+  }
+}
