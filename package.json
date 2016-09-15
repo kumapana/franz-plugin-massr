@@ -6,15 +6,15 @@
   "author": "Kan Fushihara <kan.fushihara@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://wasamas.herokuapp.com/",
+    "serviceURL": "",
     "serviceName": "Massr",
     "message": "",
     "popup": [],
     "hasNotificationSound": true,
     "hasIndirectMessages": false,
-    "hasTeamID": false,
-    "customURL": false,
-    "hostedOnly": false,
+    "hasTeamID": true,
+    "customURL": true,
+    "hostedOnly": true,
     "webviewOptions": {
       "disablewebsecurity": ""
     },
